@@ -1,5 +1,5 @@
 # Simple examples of design patterns
-
+![](assets/patterns.png)
 ## Links
 
 * [Шпаргалка по шаблонам проектирования](https://habr.com/ru/post/210288/)
