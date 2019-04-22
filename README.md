@@ -1,4 +1,3 @@
-# Simple examples of design patterns
 ![](assets/patterns.png)
 ## Links
 
